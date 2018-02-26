@@ -12,4 +12,8 @@ Gem::Specification.new do |s|
 
   s.files = ["Rakefile", "lib/peafowl.rb"]
   s.require_paths = ["lib"]
+
+  s.add_dependency 'interactor', '~> 3.0'
+  s.add_dependency 'virtus'
+  s.add_dependency 'activemodel', '>= 4', '< 6'
 end
