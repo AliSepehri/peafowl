@@ -11,6 +11,7 @@ Gem::Specification.new do |s|
   s.license = "MIT"
 
   s.files = ["Rakefile", "lib/peafowl.rb"]
+  s.test_files = s.files.grep(/^spec/)
   s.require_paths = ["lib"]
 
   s.add_dependency 'interactor', '~> 3.0'

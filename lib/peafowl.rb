@@ -1,5 +1,6 @@
 require 'interactor'
 require 'virtus'
+require 'active_model'
 
 module Peafowl
   def self.included(base)

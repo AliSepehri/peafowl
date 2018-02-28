@@ -8,5 +8,6 @@ group :development, :test do
   gem 'bundler'
   gem 'rake'
   gem 'rubocop'
-  gem 'test-unit'
+  gem 'rspec'
+  gem 'byebug'
 end
