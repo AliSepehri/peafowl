@@ -1,4 +1,6 @@
 # Peafowl
+[![Build Status](https://travis-ci.org/AliSepehri/peafowl.svg?branch=master)](https://travis-ci.org/AliSepehri/peafowl)
+
 Where do I put my application's business logic? I don't like to write business logics in rails' models or controllers. Peafowl encapsulate your business logic as a peafowl.
 
 
