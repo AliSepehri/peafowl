@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name               = "peafowl"
-  s.version            = "0.1.0"
+  s.version            = "0.1.1"
   s.default_executable = "peafowl"
 
   s.authors = ["Ali Sepehri.Kh"]
